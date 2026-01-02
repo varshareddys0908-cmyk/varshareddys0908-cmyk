@@ -3,10 +3,23 @@
 <!--
 **varshareddys0908-cmyk/varshareddys0908-cmyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🎓Information Science Student
+♨️java | 🌐HTML |🎨CSS | 💻 JavaScript
+⚛️ Learning React.js
+🧪Exploring Web Devlopment
 
-- 🔭 I’m Information Science Student ...
-- 🌱 I’m learning React.js ...
-- 👯 I’m looking for Intrenship ...
-- 🤔 Skills I Know java,Html,Css,Javascript ...
+### 🔧 Skills
+-java
+-HTML,CSS,JavaScript
+-React.js(Learning)
+-Git & GitHub
+
+### 🎯Currently
+-Buliding small Web Devlopment Projects
+-Practicing problem-solving
+-Looking for Internship opportunities
+
+### Connect with me
+-GitHub:
+[https://github.com/varshareddy30908-cmyk]
 -->
