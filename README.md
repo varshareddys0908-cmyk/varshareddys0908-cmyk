@@ -1,4 +1,4 @@
-# Hi there, I'm Varsha Reddy 👋
+# Hi there, I'm Varsha B S 👋
 
 ## 👩‍💻 About Me
 
